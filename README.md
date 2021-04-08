@@ -1,6 +1,4 @@
 # JuicyAdmnMenu
 Contactez moi en privé si vous avez des problèmes avec ce menu, merci à vous !
 
-Refonte d'un insane_admin en RageUI, il y a encore pas mal de problème je crois, mais tout est fonctionnel (néanmoins erreur au niveau du warn personnalisé. Je sortirais une v2 dans la prochaine semaine, avec tout ce que j'avais promis, tenue admin, warn personnalisé. Bon jeu.
-
-Touche  ouverture =   ";"
+Refonte d'un InsaneAdmin en RageUI , je n'ai pas trouver le temps de faire ce que j'avais promis, je vous propose néanmoins une version moins complète mais fonctionnel . Je sortirais une v2 sous peu, afin de rajouter une tenue admin, des warns personalisés notamment. Bon jeu à vous, et bon dev. 
